@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "arbitrary-cr0",
+      "id": 83729203,
+      "comment_id": 1133197648,
+      "created_at": "2022-05-20T18:33:08Z",
+      "repoId": 494566727,
+      "pullRequestNo": 1
+    }
+  ]
 }
