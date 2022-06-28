@@ -8,7 +8,7 @@
 
 | Title | Location | Author(s) | Recording |
 | --- | --- | --- | --- |
-| [Hacking Smart Contracts With Mainnet Forking](presentations/hacking_smart_contracts_with_mainnet_forking.pdf) | Off The Chain Conference 2022 | Darian Chan | [Livestream Replay](https://youtu.be/RKNPyDGWIrM?t=4851) |
+| [Hacking Smart Contracts With Mainnet Forking](presentations/Hacking%20Smart%20Contracts%20With%20Mainnet%20Forking/hacking_smart_contracts_with_mainnet_forking.pdf) | Off The Chain Conference 2022 | Darian Chan | [Livestream Replay](https://youtu.be/RKNPyDGWIrM?t=4851) |
 
 ## Security Assessments
 
