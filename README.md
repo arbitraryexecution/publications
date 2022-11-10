@@ -19,6 +19,8 @@ Arbitrary Execution performs private and public security assessments. Reports we
 | [Milkomeda](https://www.milkomeda.com/) | [August 19, 2022](assessments/Milkomeda_20220819.pdf) | |
 | [Sentiment Oracle and Controller](https://sentiment.xyz) | [July 27, 2022](assessments/Sentiment_Oracle_20220727.pdf) | |
 | [Sentiment Core Protocol](https://sentiment.xyz) | [July 27, 2022](assessments/Sentiment_Protocol_20220727.pdf) | |
+| [Aztec](https://aztec.network/) | [October 14, 2022](assessments/Aztec_20221014.pdf) | |
+| [Milkomeda](https://www.milkomeda.com/) | [October 14, 2022](assessments/Milkomeda_20221014.pdf) | |
 
 ## Presentations
 
