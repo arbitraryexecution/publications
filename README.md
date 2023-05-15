@@ -1,4 +1,4 @@
-![alt text](./AE_whiteLogo_blueslash.png)
+![alt text](./AE_logo_GH_2023.png)
 # Publications from Arbitrary Execution
 
 * [Security Assessments](#security-assessments)
