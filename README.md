@@ -21,9 +21,12 @@ Arbitrary Execution performs private and public security assessments. Reports we
 | [Sentiment Core Protocol](https://sentiment.xyz) | [July 27, 2022](assessments/Sentiment_Protocol_20220727.pdf) | |
 | [Aztec](https://aztec.network/) | [October 14, 2022](assessments/Aztec_20221014.pdf) | |
 | [Milkomeda](https://www.milkomeda.com/) | [October 14, 2022](assessments/Milkomeda_20221014.pdf) | |
+| [The Box](https://www.decent.xyz) | [July 5, 2023](assessments/Decent_20230705.pdf) | |
+| [Premia](https://premia.finance/) | [August 17, 2023](assessments/Premia_20230817.pdf) | |
 
 ## Presentations
 
 | Title | Location | Author(s) | Recording |
 | --- | --- | --- | --- |
 | [Hacking Smart Contracts With Mainnet Forking](presentations/Hacking%20Smart%20Contracts%20With%20Mainnet%20Forking/hacking_smart_contracts_with_mainnet_forking.pdf) | Off The Chain Conference 2022 | Darian Chan | [Livestream Replay](https://youtu.be/RKNPyDGWIrM?t=4851) |
+| Announcing the Web3 SDLC: Secure Development Lifecycle | ETHDenver 2022 | Philip Gillett | [Presentation](https://www.youtube.com/watch?v=d5wvO7v5-YA)
